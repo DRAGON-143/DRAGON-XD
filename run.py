@@ -1,3 +1,3 @@
 import os
-import XY
-XY.login()
+import MN
+MN.login()
